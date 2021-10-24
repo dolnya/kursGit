@@ -4,4 +4,5 @@ Nowa funkcja
 To jest czwarta zmiana Elo
 now Najnowszaw zmiana tekstu
 Nowa zmiana raz dwa trzy :) `
-TO jest inna zmiana`::
+TO jest inna zmiana`
+to jest zmiana 2::
