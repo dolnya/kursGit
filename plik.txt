@@ -1,2 +1,3 @@
 Zmiana w pliku
 Druga zmiana
+To jest czwarta zmiana Elo
